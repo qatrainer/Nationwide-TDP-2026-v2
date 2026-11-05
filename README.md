@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- NW TDP 2026 v2 -->
 # Nationwide TDP 2026 Capstone — Starter Repository (V2)
 
@@ -85,3 +86,7 @@ See [`docs/devsecops.md`](docs/devsecops.md). Add deployment only after configur
 Establish the repository, select a backend, prove the API and tests run, create the SQL schema/seed data, and demonstrate the security pipeline. Real carbon calculations, SQL integration and recommendations are Sprint 2 work.
 
 All supplied customer data is synthetic. Do not add real customer information.
+=======
+# Nationwide-TDP-2026-v2
+Nationwide-TDP-2026-v2 Captstone Project
+>>>>>>> f6e492648e7f2df060fb5e2a1def2a6271d62ea6
